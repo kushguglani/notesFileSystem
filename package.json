@@ -1,0 +1,16 @@
+{
+  "name": "notes_app",
+  "version": "1.0.0",
+  "description": "File I/O operation using node js\r Operation \r creating a folder and save notes in json format\r read update and delete the notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "yargs": "^11.0.0"
+  }
+}
